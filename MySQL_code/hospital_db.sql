@@ -1,7 +1,5 @@
--- High Distiction, Spring, 2019
--- Student Name: Jeremy Myers
--- Student Number: 13036379
--- Email: 13036379@student.uts.edu.au
+-- Grade: High Distiction, Spring, 2019
+
 -- Name of database: hospital
 -- Description: This database shows details about the different hospital 
 -- departments. These details explain who the manager, educator(s) and 
